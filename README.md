@@ -1,6 +1,6 @@
 Hi, it's g4stly
 
-I'm a full stack developer who is also interested in cyber security as a hobby -not professionally-
+I'm a full stack developer who is also interested in cyber security -not professionally-
 
 
 instagram.com/g4stly_x/
