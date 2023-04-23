@@ -1,9 +1,6 @@
 Hi, it's g4stly
 
-I'm a full stack developer who is also interested in cyber security -not professionally-
+I'm a full stack developer who is also interested in cyber security -not professionally-.
 
-
-instagram.com/g4stly_x/
-
-tryhackme.com/p/g4stly/
+G4stLy#1509 on discord.
 
