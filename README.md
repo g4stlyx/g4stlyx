@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, it's g4stly
 
-I am a backend engineer but I code/create softwares in: <br>
+I am a backend engineer, and I code/create softwares in: <br>
 * back-end (java spring boot, c# .net, expressJS), <br>
 * front-end (html, css, js, ts, reactJS), <br>
 * mobile (flutter), <br>
