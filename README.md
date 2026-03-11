@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi, it's g4stly
 
-I code/create softwares in: <br>
-front-end (html, css, js, ts, reactJS), <br>
-back-end (java spring boot, c# .net, expressJS), <br>
-mobile (flutter), <br>
-desktop (electronJS, java, py) applications.
+I am a backend engineer but I code/create softwares in: <br>
+* back-end (java spring boot, c# .net, expressJS), <br>
+* front-end (html, css, js, ts, reactJS), <br>
+* mobile (flutter), <br>
+* desktop (electronJS, java, py) applications.
 
 additionally, i like working on deep learning, especially on computer vision.
 
@@ -25,9 +25,10 @@ check <a href="https://g4stly.tr">g4stly.tr</a> for demo versions of some of my 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=g4stlyx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=g4stlyx&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=g4stlyx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<hr>
 
----
-[![](https://visitcount.itsvg.in/api?id=g4stlyx&icon=1&color=0)](https://visitcount.itsvg.in)
+Most of my Java Spring Boot projects are private, that's why it is not top here. However it is my favorite -and most used- tech by far. <br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=g4stlyx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
